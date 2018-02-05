@@ -1,6 +1,6 @@
 {
   "name": "lambda-multipart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "repository":"https://github.com/dudewheresmycode/node-lambda-multipart",
   "main": "index.js",
