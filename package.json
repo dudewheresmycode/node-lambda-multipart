@@ -1,7 +1,8 @@
 {
-  "name": "node-lambda-multipart",
+  "name": "lambda-multipart",
   "version": "1.0.0",
   "description": "",
+  "repository":"https://github.com/dudewheresmycode/node-lambda-multipart",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
